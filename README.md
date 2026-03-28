@@ -26,7 +26,7 @@ Repositório dedicado aos projetos desenvolvidos durante a **Imersão Front-End 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/imersao-frontend-ia.git](https://github.com/seu-usuario/imersao-frontend-ia.git)
+    git clone [https://github.com/seu-usuario/imersao-front.git](https://github.com/seu-usuario/imersao-front.git)
     ```
 2.  Abra a pasta no **VS Code**.
 3.  Utilize a extensão **Live Server** para visualizar no navegador em tempo real.
