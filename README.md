@@ -33,4 +33,4 @@ Repositório dedicado aos projetos desenvolvidos durante a **Imersão Front-End 
 
 ---
 
-> Esse projeto foi desenvolvido com 💙 durante a **Imersão Alura**.
+> Esse projeto foi desenvolvido por Vinii com 💙 durante a **Imersão Alura**.
